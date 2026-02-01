@@ -1480,7 +1480,6 @@ If successful, the response contains the user information.
 :Type: Container
 :Parent: ``user``
 
-
 ``op_mask``
 
 :Description: The operation mask for the user, specifying which operations are allowed.
