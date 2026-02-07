@@ -120,6 +120,14 @@ Request Parameters
 :Required: No
 
 
+``categories``
+
+:Description: Comma-separated list of operation categories to filter usage statistics (e.g., get_obj, put_obj, list_bucket, delete_obj). If not specified, all categories are returned.
+:Type: String
+:Example: ``get_obj,put_obj``
+:Required: No
+
+
 
 Response Entities
 ~~~~~~~~~~~~~~~~~
